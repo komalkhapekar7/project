@@ -3,7 +3,7 @@
 # ---------------------------------------------
 
 # --- Install dependencies ---
-#!pip install yfinance pandas matplotlib prophet keras tensorflow GoogleNews ta vaderSentiment scikit-learn requests beautifulsoup4 --quiet
+!pip install yfinance pandas matplotlib prophet keras tensorflow GoogleNews ta vaderSentiment scikit-learn requests beautifulsoup4 --quiet
 
 # --- Imports ---
 import yfinance as yf
