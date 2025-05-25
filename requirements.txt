@@ -1,0 +1,16 @@
+yfinance
+pandas
+numpy
+matplotlib
+prophet
+keras
+tensorflow
+GoogleNews
+ta
+vaderSentiment
+scikit-learn
+requests
+beautifulsoup4
+textblob
+seaborn
+streamlit
