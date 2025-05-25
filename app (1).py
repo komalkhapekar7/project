@@ -32,6 +32,10 @@ from bs4 import BeautifulSoup
 from textblob import TextBlob
 import seaborn as sns
 
+# prompt: [notice] A new release of pip is available: 24.0 -> 25.1.1
+
+# Added display import for displaying dataframes
+from IPython.display import display
 
 # ---------------------------------------------
 # Step 1: Download Reliance Stock Data (Live)
