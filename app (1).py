@@ -5,6 +5,7 @@
 # --- Install dependencies ---
 !pip install yfinance pandas matplotlib prophet keras tensorflow GoogleNews ta vaderSentiment scikit-learn requests beautifulsoup4 --quiet
 
+
 # --- Imports ---
 import yfinance as yf
 import pandas as pd
@@ -27,6 +28,7 @@ from ta.trend import MACD
 # Import requests and BeautifulSoup for the news scraping part
 import requests
 from bs4 import BeautifulSoup
+
 # Import TextBlob for the second sentiment analysis part
 from textblob import TextBlob
 import seaborn as sns
